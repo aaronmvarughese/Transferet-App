@@ -1,0 +1,52 @@
+name: transferet
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+
+dependencies:
+  firebase_core: ^2.15.0
+  
+  flutter:
+    sdk: flutter
+  loading_animation_widget: ^1.2.0+4
+  page_transition: ^2.0.9
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Montserrat-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Montserrat-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Montserrat-Bold.ttf
+          weight: 700
+    - family: Metropolis
+      fonts:
+        - asset: assets/fonts/Metropolis-Bold.otf
+          weight: 700
+        - asset: assets/fonts/Metropolis-Regular.otf
+          weight: 400
+        - asset: assets/fonts/Metropolis-Medium.otf
+          weight: 500
+        - asset: assets/fonts/Metropolis-Light.otf
+          weight: 300
+        - asset: assets/fonts/Metropolis-SemiBold.otf
+          weight: 600
+    - family: Times New Roman
+      fonts:
+        - asset: assets/fonts/times new roman bold.ttf
+  assets:
+    - assets/images/
+  uses-material-design: true

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/Transferet/Transferet App/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DAPPLICATION_ID=\\\"com.example.transferet\\\" @CMakeFiles/transferet.dir/includes_CXX.rsp -g -Wall -Werror -o CMakeFiles\\transferet.dir\\main.cc.obj -c \"D:\\Transferet\\Transferet App\\transferet\\linux\\main.cc\"",
+  "file": "D:/Transferet/Transferet App/transferet/linux/main.cc"
+},
+{
+  "directory": "D:/Transferet/Transferet App/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DAPPLICATION_ID=\\\"com.example.transferet\\\" @CMakeFiles/transferet.dir/includes_CXX.rsp -g -Wall -Werror -o CMakeFiles\\transferet.dir\\my_application.cc.obj -c \"D:\\Transferet\\Transferet App\\transferet\\linux\\my_application.cc\"",
+  "file": "D:/Transferet/Transferet App/transferet/linux/my_application.cc"
+},
+{
+  "directory": "D:/Transferet/Transferet App/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DAPPLICATION_ID=\\\"com.example.transferet\\\" @CMakeFiles/transferet.dir/includes_CXX.rsp -g -Wall -Werror -o CMakeFiles\\transferet.dir\\flutter\\generated_plugin_registrant.cc.obj -c \"D:\\Transferet\\Transferet App\\transferet\\linux\\flutter\\generated_plugin_registrant.cc\"",
+  "file": "D:/Transferet/Transferet App/transferet/linux/flutter/generated_plugin_registrant.cc"
+}
+]

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89007665756",
+    "firebase_url": "https://transferet-relocations-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "transferet-relocations",
+    "storage_bucket": "transferet-relocations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89007665756:android:3bbb439147dcd285d9ac99",
+        "android_client_info": {
+          "package_name": "com.example.transferet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89007665756-ouil79tufuk6vv738i9eek43avtljes2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrywcaeqjZB8L8GvV_kCXCBekz66MMW1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89007665756-ouil79tufuk6vv738i9eek43avtljes2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
